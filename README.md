@@ -45,7 +45,7 @@
 | Project | Description | Tech | Github Link | 사이트 이동 |
 |:-------|:------------|:-----|:-----|:-------------|
 | 📦 한 눈에 행사 정보를! | 사용자에게 전국에서 열리는 행사·축제를 한눈에 보여주고 AI 플래너 기능으로 AI가 사용자 선택에 따른 여행 일정을 자동 생성! | Java, Spring Boot, JPA, React, AWS EC2, TourAPI | 🔗 [GitHub](https://github.com/MatsuriSeoul) | 🔗 [korplace.com](https://korplace.com) |
-| 🔥 나만의 TodoList!  | AI와 알림 서비스로 최고의 TodoList를 작성해 팀 혹은 개인의 목표를 달성하자!  | Java, Spring Boot, Spring Batch, Spring Kafka, JPA, React, AWS EC2 | 🔗 [BE](https://github.com/SungWookkk/FTT_backend) 🔗 [FE](https://github.com/SungWookkk/FTT_frontend) | 🔗 추후 추가 예정 |
+| 🔥 나만의 TodoList!  | AI와 알림 서비스로 최고의 TodoList를 작성해 팀 혹은 개인의 목표를 달성하자!  | Java, Spring Boot, Spring Batch, Spring Kafka, JPA, React, AWS EC2 | 🔗 [BE](https://github.com/SungWookkk/FTT_backend) 🔗 [FE](https://github.com/SungWookkk/FTT_frontend) | 🔗 [todo-ftt.com](https://todo-ftt.com) | |
 
 
 
