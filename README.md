@@ -1,9 +1,12 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&text=I%27m%20SungWook!&fontSize=80&fontColor=FFFFFF&colorStart=FF5F6D&colorEnd=FFC371&height=300)
 
+
+
 ## ✨ Profile
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patksy68@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-psw--portfolio.com-blue?style=for-the-badge)](https://psw-portfolio.com/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium)](https://ujacheong2.tistory.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patksy68@gmail.com)
 ## ⚙️ Backend Tech Stacks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
