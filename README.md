@@ -6,7 +6,6 @@
 ## 🌐 Links
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://psw-portfolio.com/)
 [![Blog](https://img.shields.io/badge/Tech_Blog-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://ujacheong2.tistory.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patksy68@gmail.com)
 
