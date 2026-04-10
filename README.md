@@ -85,23 +85,6 @@
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-### 📦 행사·축제 AI 플래너 — **KorPlace**
-전국 행사 정보를 한눈에 탐색하고, AI가 여행 일정을 자동 생성하는 서비스  
-**Tech:** `Java` `Spring Boot` `JPA` `React` `AWS EC2` `TourAPI`  
-**Links:** [GitHub](https://github.com/MatsuriSeoul) • [korplace.com](https://korplace.com)
-
----
-
-### 🔥 팀·개인 목표 보조 AI TodoList — **FTT**
-AI 기반 작업 분석 + 알림 기반 목표 달성 서비스를 제공하는 Todo 플랫폼  
-**Tech:** `Java` `Spring Batch` `Spring Kafka` `JPA` `React` `AWS`  
-**Links:** [Backend](https://github.com/SungWookkk/FTT_backend) • [Frontend](https://github.com/SungWookkk/FTT_frontend) • [todo-ftt.com](https://todo-ftt.com)
-
----
 
 <div align="center">
   <br/><br/>
