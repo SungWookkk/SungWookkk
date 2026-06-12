@@ -2,15 +2,28 @@
 
 # 👋 Hi, I'm SungWook
 
-
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,fastapi,python,java,spring,postgres,mysql,docker,nginx,git,github,postman,figma,redis,kafka,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SungWookkk&style=for-the-badge&color=blueviolet" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastapi,python" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,firebase" />
+</p>
+
+<br />
+
 <table align="center">
 <tr>
 <td align="center">
@@ -25,3 +38,5 @@
 </td>
 </tr>
 </table>
+
+</div>
